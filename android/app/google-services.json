@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64887230238",
+    "firebase_url": "https://uniyo-developer-8f01c.firebaseio.com",
+    "project_id": "uniyo-developer-8f01c",
+    "storage_bucket": "uniyo-developer-8f01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64887230238:android:a0fef8e92a0805e9f3030f",
+        "android_client_info": {
+          "package_name": "com.developer.uniyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64887230238-8tk6g2mnmtjrghu0fs3hti4rtpimnqu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.uniyo",
+            "certificate_hash": "f42d2a0f8d2744761b821ea15a5eda403cdc622c"
+          }
+        },
+        {
+          "client_id": "64887230238-2ivd218m8k31h6fk8t0chbgis0r58sv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67lmZXGOHuEspBAogK7nGkKgUmPnu7tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64887230238-2ivd218m8k31h6fk8t0chbgis0r58sv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
